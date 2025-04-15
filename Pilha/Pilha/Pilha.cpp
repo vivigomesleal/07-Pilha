@@ -51,7 +51,7 @@ void menu()
 		default:
 			break;
 		}
-
+	
 		system("pause"); // somente no windows
 	}
 }
